@@ -5,7 +5,7 @@
 
 ```text
 stats-viz-notebooks/
-├── README.md                     # 仓库介绍、环境配置、使用说明
+├── README.md                 # 仓库介绍、环境配置、使用说明
 ├── stat-basics/              # 统计学基础笔记
 │   ├── 显著性分析.ipynb
 ├── viz-demo/                 # seaborn/matplotlib绘图demo（titanic/iris/flights放这里）
